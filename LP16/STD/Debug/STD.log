@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  StandLib.cpp
+d:\despair\despair\lp16\std\standlib.cpp(35): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  STD.vcxproj -> D:\despair\despair\LP16\Debug\STD.lib

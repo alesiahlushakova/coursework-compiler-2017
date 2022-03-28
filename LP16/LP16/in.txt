@@ -1,0 +1,55 @@
+? программа на €зыке
+ HAY-2018 ?
+std .
+number func fcheck (number x  , number y )   
+<
+  init  number z .
+  z = x * (x + y)/2  .
+ back z . 
+> . 
+
+main 
+<
+  init  number x .
+  init  number y . 
+  init number isstr .
+  init  number z . ? объ€вление переменных ?
+  init number a .
+  init number asum .
+  init number gsum .
+  init  string sa .
+  init string sb .
+  init rc sc .
+  init rc qwert .
+  qwert = false .
+  show qwert .
+  show true .
+  init number func check (number x, number y) . 
+  init number func strlen (string str) . 
+  init number func arsum (number x,  number y,  number z) .
+  init number func geomsum (number x, number y, number z) . 
+  init   rc c .
+  init  rc func substr(string a, string p) .                        
+  x = 3  .
+  y = 5  .
+  a = 8 .
+  z = fcheck(x, y) .
+  sa = 'hello '  .
+  isstr = strlen(sa) - 100 .
+  sb = 'hello world '  .
+  c = substr( sb, sa ) .
+  asum = arsum(x ,y, a) .
+  gsum = geomsum(3,5,7)*2 .
+  show  'контрольный пример' .
+show ' cумма арифм прогресссии a 3 d 5 n 8 ' . 
+show asum . 
+show ' cумма геом прогрессии b 3 q 5 n 7 умноженна€ на 2 ' . 
+show gsum . 
+show ' 3*(5+3)/2 равно ' . 
+show z . 
+show ' €вл€етс€ ли hello подстрокой hello world?' . 
+show c . 
+show ' длина строки hello ' .
+show isstr .
+  back 0 .
+> .

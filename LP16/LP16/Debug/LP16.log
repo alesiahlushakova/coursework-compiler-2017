@@ -1,0 +1,22 @@
+﻿  stdafx.cpp
+  Semantics.cpp
+  PolishNotation.cpp
+  Parm.cpp
+  MFST.cpp
+d:\despair\despair\lp16\lp16\mfst.cpp(234): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+  Log.cpp
+  LexAnaliz.cpp
+  LT.cpp
+  LP16.cpp
+  In.cpp
+  IT.cpp
+  Greibach.cpp
+  Generation.cpp
+d:\despair\despair\lp16\lp16\generation.cpp(138): warning C4101: buffint: неиспользованная локальная переменная
+  FST.cpp
+d:\despair\despair\lp16\lp16\fst.cpp(61): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  Error.cpp
+  Div.cpp
+  Создание кода...
+  LP16.vcxproj -> D:\despair\despair\LP16\Debug\LP16.exe
+  LP16.vcxproj -> D:\despair\despair\LP16\Debug\LP16.pdb (Partial PDB)
